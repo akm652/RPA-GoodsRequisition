@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rpa-goodrequisition",
+  "private_key_id": "b41bbd695ccec77a9ab93bb15b1b7f08e954984c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDA6lmQlnBBMhQE\nu+/AFu8zWp4PKdvtgXDwl0S7rQDDpRuoKMjwQhkgEVzvLLI+QuN9ZDhDDIc6tCdg\nkRef/g9yNsVBcOzzhPeuJnPnjnGf8XgtqMGf3v2JsiHIvtt27W/LzUOoxhToANKz\nlM74ejtxz6pRkfqWiPRPLg1CK2R5FuC8w7JYF5G2pytAtTlKqg6uJ0hROkmzIZVc\n94jezJwkSRYne2MJakwLuKvCH6ab9edBmC9dEHIJ14d26UjG8Lh2TqcnZbcua1MJ\ncjZKJdp34EtQq7nydvVHQMrAvYlMLxhaCcEY0X/yZLZ8UKI0rx+ZnhUJ1q59/eL0\nds9Zw6NLAgMBAAECggEADciQtqpxAc98q6vr4NsioxYt5eJ1Qr51XdNJB2nAfLoO\nxFCJrtTiK67h53rXj2hDDcH73RqHjPOzPoyPVhCWdPAh3t+dJncRJUG9FUXRq35a\nulRs5SnPDqgKDuhIEPK9AqA7XdMtSjhI1ajjstA08BhI0IQwFdJaNlARhXFJP/d5\nPD09XWFVZIH9iPW6PFxG0/CuqFNdsQu3eziSbLqtASDI6TEYgIWRGEZohxLaGTqY\ntMJpvsbDYxAUHXC6fn7suXzbByvK2MwmD+ewv9b9NxzLigzAZcE/vaehX8xUST4M\n0+3iPlAs4wSIfFjPGLvRLKFkIT+ueO+RFZf/VK4sQQKBgQDgN+xuexM1qXzP3vfu\nLuI0TceIDZ05IwCEykHuamviL0myXIV6htRGGSMpKb6wWICy/pozMKGwGLw6fORp\ng/38qIszhqH5pMes1c0EDSn7G5MQfdAjoNocCu+Ka0fVqUCcB3XWiQ1nOOW3+zQD\nmYoRZY2unW9+twzof/h42c46iwKBgQDcQo2I4TdFdBBbtmlVmcVT7VEl+vQg3Ce0\ns2ZuSnBuhVegssScdJYZT1yUlUvgavKK3pTE6uGBI1oN1HDaKi+1MXrtylMrpDW9\nUy1R+TSQYb2uWnRzthdXNFCl+Oq4xYw1oh0M93SJ1GYeTW5UVQ93GAOQu034jWWz\ngoMnMvsSQQKBgF22IeQfHm08NEUxHJB5GePgajer8P1TasEVQ68g3YxAVV3tm4AV\nYB0YHoDyyJcttkSZcttYRQuzmuAbGOAc4Ye67csQRxxuyWGsTi6WTeh8ot+updJu\nRRqZW3qP0gsz3SQZXh/XUjnFJwXZQOkMQA97UVccx9+/I+78pV3lMnN3AoGBAIA0\n0POCvExWEYuAsvFbj0uZ0Gk+GMnju8znu9CozabXQLlONTkod5IF6sql2EOpnMIO\nayPv4BDuBeYU6RdkBN8ADSDKavz1GT65YqDbYKhF7EXHaw9LR2zAC82ABQhGHKW/\nVg+NHi14D3TF91lpJZZZyQF+tRTfIPqLFlJDz3bBAoGAHvjhu3J0xYgCSNlji+cP\n+is0B+eqKqYphwowxsLEzl4kRgV+IRTouPYX+/VOU0OGRtBJ/OUtdQaUOhy23L4O\n0Ln2hWlRV4ajbTnCJpt6MGmiCQRZWPO+GBsPv7WO81QBaTLB9goB07I95WPDswNs\nTOLEbeVhCJmAQp+pBwrhEIk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rpagoodrequisition@rpa-goodrequisition.iam.gserviceaccount.com",
+  "client_id": "103511205237684794337",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rpagoodrequisition%40rpa-goodrequisition.iam.gserviceaccount.com"
+}
